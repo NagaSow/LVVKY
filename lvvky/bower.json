@@ -1,0 +1,7 @@
+{
+  "name":"lvvky",
+  "dependencies":{
+    "bootstrap":"latest",
+    "angular":"latest"
+  }
+}
